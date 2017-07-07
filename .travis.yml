@@ -4,7 +4,9 @@
 language: node_js
 node_js:
   - "6.9"
-
+env:
+  CODECLIMATE_REPO_TOKEN: 2ba9d46263665599b1b8d2fba4f5d46723cdd0ea6efd0ef22d6dd4d13fb01777
+  
 branches:
   only:
     - master
