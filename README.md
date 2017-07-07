@@ -2,7 +2,7 @@
 # FirebaseApp
 
 [![Build Status](https://travis-ci.org/dpianelli/firebase-test.svg?branch=master)](https://travis-ci.org/dpianelli/firebase-test)
-
+<a href="https://codeclimate.com/github/dpianelli/firebase-test"><img src="https://codeclimate.com/github/dpianelli/firebase-test/badges/gpa.svg" /></a> <a href="https://codeclimate.com/github/dpianelli/firebase-test"><img src="https://codeclimate.com/github/dpianelli/firebase-test/badges/issue_count.svg" /></a> <a href="https://codeclimate.com/github/dpianelli/firebase-test/coverage"><img src="https://codeclimate.com/github/dpianelli/firebase-test/badges/coverage.svg" /></a>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
